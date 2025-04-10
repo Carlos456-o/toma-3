@@ -26,8 +26,9 @@ private List<DetalleCompra> detalles; // Relación con DetalleCompra
     }
 
     public Compra() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
+
+
 
     public int getIdCompra() {
         return idCompra;

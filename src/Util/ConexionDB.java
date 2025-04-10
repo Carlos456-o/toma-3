@@ -4,7 +4,6 @@
  */
 package Util;
 import java.sql.*;
-import Util.ConexionDB;
 /**
  *
  * @author Estudiantes
